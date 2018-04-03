@@ -1,7 +1,7 @@
-# Galeria2
+# Recopilación de Evidencias
 
-Galería de 20 imágenes random que se muestran en pantalla completa cuando se cliquea su miniatura
+La recopilación de evidencias fue entregada en DVD. No se pudo subir por este medio porque pesa 260 MB y el límite en esta herramienta es de 100 MB por archivo.
 
-Hecho por: Elvira Marisol Saldívar Izaguirre
+Atentamente: Elvira Marisol Saldívar Izaguirre
 
-Grupo: ITI 2-1
+Grupo: ITI 07116
